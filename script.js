@@ -37,7 +37,7 @@ const checkWin = ()=>{
 }
 
 
-// music.play()
+music.play()
 //Main LOgic of the game
 let boxes = document.getElementsByClassName("box");
 Array.from(boxes).forEach(element =>{
